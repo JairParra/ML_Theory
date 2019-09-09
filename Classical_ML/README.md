@@ -1,3 +1,3 @@
-# Classifcal_ML 
+# Classical_ML 
 
 Literature concerning classical ML concepts 
